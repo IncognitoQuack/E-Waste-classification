@@ -1,0 +1,5 @@
+tensorflow>=2.10
+tensorflow-model-optimization
+numpy
+scikit-learn
+gradio
