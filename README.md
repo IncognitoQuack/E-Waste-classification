@@ -1,4 +1,4 @@
-# E-Waste Classification Internship Project
+# E-Waste Classification Project
 
 This project implements an efficient E-Waste image classification pipeline using only the provided dataset, with state-of-the-art tricks to maximize accuracy and speed:
 
